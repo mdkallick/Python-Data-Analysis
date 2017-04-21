@@ -4,7 +4,7 @@ Code from CS251: Data Visualization and Analysis
 USAGE:
 Running display.py opens a window that allows you to do a variety of data analysis techniques on selected input data.
 Display Window:
-  left-mouse-button click and drag translates the plot
+  left-mouse-button click and drag translates the plot \n
   right-mouse-button click and drag rotates the plot
   middle-mouse-button click and drag scales the plot
   "Plot Data From Input File" button allows you to select the 3 variables to plot from the input file. (from File->Open Data)
